@@ -16,10 +16,12 @@
 
 <h2 align="left">Detalhes</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div display="flex" align-items="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&theme=dark" alt="Anurag's GitHub stats"/>
 </a>
 
+</div>
 
 <h2 align="left">Linguagens utilizadas</h2>
 
