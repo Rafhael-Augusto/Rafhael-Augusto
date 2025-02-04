@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafhael e sou um desenvolvedor front-end</p>
+<p align="left">Meu nome é Rafhael e sou um desenvolvedor front-end.</p>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" height="40" alt="Sass logo"  />
   <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/less/less-plain-wordmark.svg" height="40" alt="Less logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/less/less-plain-wordmark.svg" height="40" alt="Less logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
