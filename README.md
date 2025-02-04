@@ -16,16 +16,15 @@
 
 <h2 align="left">Detalhes</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&theme=dark" alt="Anurag's GitHub stats"/>
-</a>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <h2 align="left">Linguagens utilizadas</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact&theme=dracula" alt="Top Langs"/>
+</a>
 
 <h2 align="left">Eu desenvolvo com</h2>
 
