@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafhael e sou um desenvolvedor front-end.</p>
+<p align="left">Meu nome é Rafhael Augusto e sou um desenvolvedor front-end.</p>
 
 ###
 
@@ -17,13 +17,6 @@
 <h2 align="left">Detalhes</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align="left">Projetos</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Linguagens utilizadas</h2>
 
@@ -63,6 +56,13 @@
 </div>
 
 ###
+
+<h2 align="left">Projetos</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Contatos</h2>
 
