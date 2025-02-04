@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact&theme=dracula" alt="Top Langs"/>
 </a>
 
-<h2 align="left">Eu desenvolvo com</h2>
+<h2 align="left">Minhas habilidades</h2>
 
 ###
 
