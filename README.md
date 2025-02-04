@@ -16,9 +16,9 @@
 
 <h2 align="left">Detalhes</h2>
 
-<p>
+<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 <h2 align="left">Linguagens utilizadas</h2>
 
