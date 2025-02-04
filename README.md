@@ -23,7 +23,7 @@
 <h2 align="left">Linguagens utilizadas</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact&theme=dracula" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact&theme=dark" alt="Top Langs"/>
 </a>
 
 <h2 align="left">Minhas habilidades</h2>
