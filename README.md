@@ -35,6 +35,14 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="BootStrap logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gulp/gulp-plain.svg" height="40" alt="Gulp logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grunt/grunt-original.svg" height="40" alt="Grunt logo"  />
+  <img width="12" />
 </div>
 
 ###
