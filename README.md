@@ -1,20 +1,30 @@
-## Olá 👋
+<h1 align="left">Olá 👋</h1>
 
-### Detalhes
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">Meu nome é Rafhael e sou um desenvolvedor front-end</p>
 
-### Projetos
+###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://github.com/Rafhael-Augusto/SoMaisUmCard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://github.com/Rafhael-Augusto/SoMaisUmCard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://github.com/Rafhael-Augusto/SoMaisUmCard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://github.com/Rafhael-Augusto/SoMaisUmCard)
+<h2 align="left">Sobre mim</h2>
 
-### Linguagens utilizadas
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou estudando back end<br>🎯 Objetivo: Engenheiro de Software<br>🎲 Fun fact: Comecei no mundo da programação aos 13 anos de idade</p>
 
-### Contatos
+###
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rafhael-augusto/)
+<h2 align="left">Eu desenvolvo com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+</div>
+
+###
