@@ -10,9 +10,13 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024.<br>📚 Atualmente estou estudando back end.<br>🎯 Objetivo: Engenheiro de Software.<br>🎲 Fun fact: Comecei no mundo da programação aos 13 anos de idade.</p>
+<p align="left">✨ Criando bugs desde 2024.<br>📚 Atualmente estou estudando back end.<br>🎯 Objetivo: Engenheiro de Software.<br>🎲 Fun fact: Comecei a me interessar no mundo da programação aos 13 anos de idade.</p>
 
 ###
+
+<h2 align="left">Detalhes</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Eu desenvolvo com</h2>
 
