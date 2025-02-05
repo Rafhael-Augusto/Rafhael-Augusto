@@ -63,7 +63,7 @@
 
 <h2 align="left">Projetos</h2>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark">
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark" target="_blank">
   <a href="https://restaurante-nu-liard.vercel.app/"></a>
 </a>
 
