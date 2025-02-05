@@ -64,7 +64,7 @@
 <h2 align="left">Projetos</h2>
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark">
-  <a href="https://restaurante-nu-liard.vercel.app/" target="_blank"></a>
+  <button href="https://restaurante-nu-liard.vercel.app/" target="_blank"></button>
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://restaurante-nu-liard.vercel.app/)
