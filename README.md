@@ -63,6 +63,10 @@
 
 <h2 align="left">Projetos</h2>
 
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark">
+  <a href="https://restaurante-nu-liard.vercel.app/"></a>
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://restaurante-nu-liard.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://clone-disneyplus-three-rust.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://cptn-eta.vercel.app/)
