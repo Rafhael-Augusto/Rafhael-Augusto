@@ -63,10 +63,10 @@
 
 <h2 align="left">Projetos</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://restaurante-nu-liard.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://clone-disneyplus-three-rust.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://cptn-eta.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://calcular-imc-nine.vercel.app/)
 
 <h2 align="left">Contatos</h2>
 
