@@ -57,6 +57,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height="40" alt="Jest logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitest/vitest-original.svg" height="40" alt="Vitest logo"  />
+  <img width="12" />
 </div>
 
 ###
