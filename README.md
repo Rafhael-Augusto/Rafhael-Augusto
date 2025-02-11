@@ -65,7 +65,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=restaurante&theme=dark)](https://github.com/Rafhael-Augusto/restaurante/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=clone_disneyplus&theme=dark)](https://github.com/Rafhael-Augusto/clone_disneyplus/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://github.com/Rafhael-Augusto/cptn/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=cptn&theme=dark)](https://github.com/Rafhael-Augusto/minhas-tarefas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://github.com/Rafhael-Augusto/Calcular-imc/)
 
 <h2 align="left">Contatos</h2>
