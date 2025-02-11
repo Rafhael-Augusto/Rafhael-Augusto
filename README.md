@@ -26,9 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact&theme=dark" alt="Top Langs"/>
 </a>
 
-<h2 align="left">Minhas habilidades</h2>
-
-<h3>🖥️ Front-end</h3>
+<h2>🖥️ Minhas habilidades</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
