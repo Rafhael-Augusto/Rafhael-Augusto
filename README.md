@@ -17,6 +17,7 @@
 <h2 align="left">Detalhes</h2>
 
 ![Rafhael-Augusto's Stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ![Rafhael-Augusto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafhael-Augusto&theme=vue-dark&hide_border=false)
 
 </div>
