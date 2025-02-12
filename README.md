@@ -16,15 +16,14 @@
 
 <h2 align="left">Detalhes</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&show_icons=true&theme=dark)]
+![Rafhael-Augusto's Stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Rafhael-Augusto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafhael-Augusto&theme=vue-dark&hide_border=false)
 
 </div>
 
 <h2 align="left">Linguagens utilizadas</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&layout=compact&theme=dark" alt="Top Langs"/>
-</a>
+![Rafhael-Augusto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <h2>🖥️ Minhas habilidades</h2>
 
