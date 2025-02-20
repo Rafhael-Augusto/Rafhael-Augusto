@@ -22,7 +22,7 @@
 
 <h2 align="left">Linguagens utilizadas</h2>
 
-![Rafhael-Augusto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1200)
+![Rafhael-Augusto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800)
 
 <h2>🖥️ Minhas habilidades</h2>
 
