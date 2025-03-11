@@ -55,9 +55,9 @@
 
 <h2 align="left">Projetos</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Candleaf-projeto&theme=dark)](https://github.com/Rafhael-Augusto/Candleaf-projeto/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=minhas-tarefas&theme=dark)](https://github.com/Rafhael-Augusto/lista-de-tarefa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Calcular-imc&theme=dark)](https://github.com/Rafhael-Augusto/Calcular-imc/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=efood-projeto&theme=dark)](https://github.com/Rafhael-Augusto/efood-projeto/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Contatos-projeto&theme=dark)](https://github.com/Rafhael-Augusto/Contatos-projeto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=lista-de-tarefa&theme=dark)](https://github.com/Rafhael-Augusto/lista-de-tarefa/)
 
 <h2 align="left">Contatos</h2>
 
