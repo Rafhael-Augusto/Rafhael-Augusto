@@ -58,6 +58,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=efood-projeto&theme=dark)](https://github.com/Rafhael-Augusto/efood-projeto/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Contatos-projeto&theme=dark)](https://github.com/Rafhael-Augusto/Contatos-projeto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=lista-de-tarefa&theme=dark)](https://github.com/Rafhael-Augusto/lista-de-tarefa/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafhael-Augusto&repo=Candleaf-projeto&theme=dark)](https://github.com/Rafhael-Augusto/Candleaf-projeto/)
+
 
 <h2 align="left">Contatos</h2>
 
