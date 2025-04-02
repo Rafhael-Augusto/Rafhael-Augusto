@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" height="40" alt="Django logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" height="40" alt="Django logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo"  />
   <img width="12" />
@@ -65,4 +65,3 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:rafhaelalvesprado@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafhael-augusto)
-
