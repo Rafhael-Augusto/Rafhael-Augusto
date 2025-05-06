@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
   <img width="12" />
