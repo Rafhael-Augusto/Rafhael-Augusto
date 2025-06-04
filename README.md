@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024.<br>📚 Atualmente estou estudando back end.<br>🎯 Objetivo: Full Stack.<br>🎲 Fun fact: Comecei a me interessar no mundo da programação aos 13 anos de idade.</p>
+<p align="left">✨ Criando bugs desde 2023.<br>📚 Atualmente estou estudando back end.<br>🎯 Objetivo: Full Stack.<br>🎲 Fun fact: Comecei a me interessar no mundo da programação aos 13 anos de idade.</p>
 
 ###
 
