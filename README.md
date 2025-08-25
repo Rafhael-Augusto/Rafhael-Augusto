@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Criando bugs desde 2023.<br>📚 Atualmente estou estudando back end.<br>🎯 Objetivo: Full Stack.<br>🎲 Fun fact: Comecei a me interessar no mundo da programação aos 13 anos de idade.</p>
-
-###
-
 <h2 align="left">Detalhes</h2>
 
 ![Rafhael-Augusto's Stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
