@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafhael Augusto e sou um desenvolvedor fullstack.</p>
+<p align="left">Meu nome é Rafhael Augusto e sou um engenheiro de software.</p>
 
 ###
 
