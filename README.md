@@ -1,11 +1,3 @@
-<h1 align="left">Olá 👋</h1>
-
-###
-
-<p align="left">Meu nome é Rafhael Augusto e sou um engenheiro de software.</p>
-
-###
-
 <h2 align="left">Detalhes</h2>
 
 ![Rafhael-Augusto's Stats](https://github-readme-stats.vercel.app/api?username=Rafhael-Augusto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
